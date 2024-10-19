@@ -4,18 +4,18 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/**/*.js",  // Specify the folder for your API routes
+      "src": "api/**/*.js",  
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/api/(.*)",   // Route all API requests to the "api" directory
+      "src": "/api/(.*)",  
       "dest": "/api/$1"
     },
     {
-      "src": "/(.*)",       // Catch-all route for other requests (could be static or front-end routes)
-      "dest": "/index.html" // Ensure this points to your static frontend
+      "src": "/(.*)",       
+      "dest": "/index.html" 
     }
   ]
 }
