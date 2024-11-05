@@ -40,35 +40,35 @@ FoodFusion is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based food d
 # Project Structure
 
 
-FoodFusion/
-    ├── backend-2/               # Backend section of the project
-    │   ├── Routes/               # Contains API route definitions
-    │   ├── models/               # Database models
-    │   ├── db.js                 # Database configuration file
-    │   ├── index.js              # Main server file
-    │   ├── package.json          # Backend dependencies and scripts
-    │   ├── package-lock.json     # Backend dependency lock file
-    │   └── vercel.json           # Vercel configuration for deployment
-    │
-    ├── frontend/                 # Frontend section of the project
-    │   ├── public/               # Public assets and files (do not modify directly)
-    │   ├── src/                  # Source code for the frontend
-    │   │   ├── SCREENS/          # Contains main screens of the application
-    │   │   ├── components/       # Reusable components
-    │   │   ├── App.css           # Main CSS for the App component
-    │   │   ├── App.js            # Root App component
-    │   │   ├── App.test.js       # Unit tests for the App component
-    │   │   ├── Modal.js          # Modal component file
-    │   │   ├── index.css         # Main CSS file
-    │   │   ├── index.js          # Main entry point for React
-    │   │   ├── reportWebVitals.js# Web vitals performance tracking
-    │   │   └── setupTests.js     # Jest setup for testing
-    │   │
-    │   ├── README.md             # Project documentation for frontend
-    │   ├── package.json          # Frontend dependencies and scripts
-    │   └── package-lock.json     # Frontend dependency lock file
-    │
-    └── README.md                 # Root README file for the project
+    FoodFusion/
+        ├── backend-2/               # Backend section of the project
+        │   ├── Routes/               # Contains API route definitions
+        │   ├── models/               # Database models
+        │   ├── db.js                 # Database configuration file
+        │   ├── index.js              # Main server file
+        │   ├── package.json          # Backend dependencies and scripts
+        │   ├── package-lock.json     # Backend dependency lock file
+        │   └── vercel.json           # Vercel configuration for deployment
+        │
+        ├── frontend/                 # Frontend section of the project
+        │   ├── public/               # Public assets and files (do not modify directly)
+        │   ├── src/                  # Source code for the frontend
+        │   │   ├── SCREENS/          # Contains main screens of the application
+        │   │   ├── components/       # Reusable components
+        │   │   ├── App.css           # Main CSS for the App component
+        │   │   ├── App.js            # Root App component
+        │   │   ├── App.test.js       # Unit tests for the App component
+        │   │   ├── Modal.js          # Modal component file
+        │   │   ├── index.css         # Main CSS file
+        │   │   ├── index.js          # Main entry point for React
+        │   │   ├── reportWebVitals.js# Web vitals performance tracking
+        │   │   └── setupTests.js     # Jest setup for testing
+        │   │
+        │   ├── README.md             # Project documentation for frontend
+        │   ├── package.json          # Frontend dependencies and scripts
+        │   └── package-lock.json     # Frontend dependency lock file
+        │
+        └── README.md                 # Root README file for the project
 
 
 # Installation
