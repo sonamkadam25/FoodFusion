@@ -18,6 +18,8 @@ export default function Home() {
         headers: {
           "Content-Type": "application/json",
         },
+           body: JSON.stringify({}),
+      credentials: "include",
       });
 
       if (!response.ok) {
