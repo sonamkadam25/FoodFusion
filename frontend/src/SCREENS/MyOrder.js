@@ -16,6 +16,7 @@ export default function MyOrder() {
       body: JSON.stringify({
         email: localStorage.getItem("userEmail"),
       }),
+       credentials: 'include',
     }).then(async (res) => {
       // Response of history we get, we are storing it on the setOrderData useState
       let response = await res.json();
