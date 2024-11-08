@@ -11,7 +11,7 @@ export default function Login() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     //now we are hit the end point
-    const responce = await fetch("http://localhost:5000/api/loginuser", {
+    const responce = await fetch("https://food-fusion-web.vercel.app/api/loginuser", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
