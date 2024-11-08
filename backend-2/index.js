@@ -22,6 +22,10 @@ app.get("/",(req,res)=>{
   res.json("Hello");
 })
 
+app.get("*", (req, res) => {
+  res.status(404).json({ error: "Route not found" });
+});
+
 app.use("/api", require("./Routes/CreateUser"));
 app.use("/api", require("./Routes/DisplayData"));
 app.use("/api/auth", require("./Routes/OrderData"));
