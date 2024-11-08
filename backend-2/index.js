@@ -8,7 +8,7 @@ mongoDB();
 
 app.use(
   cors({
-    origin: ["https://food-fusion-chi.vercel.app"],
+    origin: ["https://food-fusion-web.vercel.app"],
     methods: ["GET", "POST", "PUT", "DELETE"], 
     allowedHeaders: ["Content-Type", "Authorization"],
     credentials: true
