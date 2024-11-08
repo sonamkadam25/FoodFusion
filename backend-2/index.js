@@ -18,6 +18,10 @@ app.use(
 app.use(express.json());
 mongoose.connect('mongodb+srv://FoodFusion:FoodFusion123@cluster0.n8qwawf.mongodb.net/FoodFusion?retryWrites=true&w=majority&appName=Cluster0');
 
+app.get("/",(req,res)=>{
+  res.json("Hello");
+})
+
 app.use("/api", require("./Routes/CreateUser"));
 app.use("/api", require("./Routes/DisplayData"));
 app.use("/api/auth", require("./Routes/OrderData"));
