@@ -27,6 +27,7 @@ export default function Signup() {
           password: credentials.password,
           location: credentials.geolocation,
         }),
+         credentials: 'include',
       });
 
       if (!response.ok) {
