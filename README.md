@@ -11,26 +11,26 @@ It allows users to browse through various food categories, add items to their ca
 ---
 
 ## Table of Contents
-- [✨ Features](#-features)
-- [🧑‍💻 Tech Stack](#-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [⚙️ Installation](#️-installation)
-- [🚀 Usage](#-usage)
-- [🌟 Future Enhancements](#-future-enhancements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [ Features](#-features)
+- [ Tech Stack](#-tech-stack)
+- [ Project Structure](#-project-structure)
+- [ Installation](#️-installation)
+- [ Usage](#-usage)
+- [ Future Enhancements](#-future-enhancements)
+- [ Contributing](#-contributing)
+- [ License](#-license)
 
 ---
 
 ## ✨ Features
 
 ### 👤 User Features
-- 🔐 **Sign Up / Login** – Secure JWT-based authentication, with password hashing using **bcrypt**.  
-- 🍱 **Browse Food by Category** – Explore various cuisines organized into easy-to-navigate categories.  
-- 🔎 **Search** – Instantly find your favorite dishes using the smart search bar.  
-- 🛒 **Add to Cart** – Select item quantity and size, and add them to your cart.  
-- 💳 **Checkout** – Review your order and complete payment seamlessly.  
-- 📜 **Order History** – View previously ordered items in your personal *“My Orders”* section.  
+-  **Sign Up / Login** – Secure JWT-based authentication, with password hashing using **bcrypt**.  
+-  **Browse Food by Category** – Explore various cuisines organized into easy-to-navigate categories.  
+-  **Search** – Instantly find your favorite dishes using the smart search bar.  
+-  **Add to Cart** – Select item quantity and size, and add them to your cart.  
+-  **Checkout** – Review your order and complete payment seamlessly.  
+-  **Order History** – View previously ordered items in your personal *“My Orders”* section.  
 
 ### 🧑‍💼 Admin Features
 -  **Order Management** – View, update, and manage orders placed by users.  
