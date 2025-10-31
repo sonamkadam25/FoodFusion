@@ -11,7 +11,7 @@ It allows users to browse through various food categories, add items to their ca
 
 ---
 
-## 🧭 Table of Contents
+## Table of Contents
 - [✨ Features](#-features)
 - [🧑‍💻 Tech Stack](#-tech-stack)
 - [📁 Project Structure](#-project-structure)
@@ -34,9 +34,9 @@ It allows users to browse through various food categories, add items to their ca
 - 📜 **Order History** – View previously ordered items in your personal *“My Orders”* section.  
 
 ### 🧑‍💼 Admin Features
-- 📦 **Order Management** – View, update, and manage orders placed by users.  
-- 🍔 **Product Management** – Add, update, or delete food items easily.  
-- 👥 **User Management** – Access and manage user accounts efficiently.  
+-  **Order Management** – View, update, and manage orders placed by users.  
+-  **Product Management** – Add, update, or delete food items easily.  
+-  **User Management** – Access and manage user accounts efficiently.  
 
 ---
 
@@ -121,27 +121,21 @@ It allows users to browse through various food categories, add items to their ca
    In the server folder
    npm run dev
 
-🚀 Usage
+# Usage
 
-🧍‍♀️ Sign Up/Login – Create or log in to your account.
+    Sign Up/Login: Create an account or log in with existing credentials.
+    Browse and Search: View available food items by category or use the search feature.
+    Add to Cart: Select items, specify quantity and size, then add them to the cart.
+    Checkout: Review your cart and place an order.
+    View Order History: Check previously ordered items in the "My Orders" section.
 
-🍕 Browse and Search – Explore categories or use the search bar to find dishes.
+# Future Enhancements
 
-🛒 Add to Cart – Choose size, quantity, and add to cart.
+    Real-Time Order Tracking: Allow users to track their orders in real-time.
+    Scheduled Deliveries: Users can schedule orders for later times.
+    Personalized Recommendations: Provide food recommendations based on user preferences and past orders.
+    Loyalty Rewards Program: Introduce a rewards system for frequent users.
 
-💰 Checkout – Review and confirm your order.
-
-📦 Order History – Track all your past orders.
-
-🌟 Future Enhancements
-
-📍 Real-Time Order Tracking – View live order progress.
-
-⏰ Scheduled Deliveries – Schedule orders for specific times.
-
-💡 Personalized Recommendations – Get smart suggestions based on history.
-
-🎁 Loyalty Rewards Program – Earn points and enjoy exclusive discounts.
 
 # Contributing
 
@@ -152,10 +146,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     Commit your changes (git commit -m 'Add some AmazingFeature').
     Push to the branch (git push origin feature/AmazingFeature).
     Open a Pull Request.
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
