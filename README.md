@@ -4,7 +4,6 @@
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 **FoodFusion** is a **MERN (MongoDB, Express.js, React.js, Node.js)** stack-based **food delivery application**.  
 It allows users to browse through various food categories, add items to their cart, and place orders — providing a smooth, secure, and enjoyable food ordering experience.
