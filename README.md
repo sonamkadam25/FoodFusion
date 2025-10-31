@@ -151,9 +151,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 **Sonam Ravindra Kadam**
 
----
-
-### 💖 Developed with Passion and Purpose 🌾
+### 💖 Developed with Passion and Purpose 🍽️
 
 
 
