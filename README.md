@@ -18,13 +18,12 @@ It allows users to browse through various food categories, add items to their ca
 - [ Usage](#-usage)
 - [ Future Enhancements](#-future-enhancements)
 - [ Contributing](#-contributing)
-- [ License](#-license)
 
 ---
 
-## ✨ Features
+## 1️⃣ Features
 
-### 👤 User Features
+###  User Features
 -  **Sign Up / Login** – Secure JWT-based authentication, with password hashing using **bcrypt**.  
 -  **Browse Food by Category** – Explore various cuisines organized into easy-to-navigate categories.  
 -  **Search** – Instantly find your favorite dishes using the smart search bar.  
@@ -32,14 +31,14 @@ It allows users to browse through various food categories, add items to their ca
 -  **Checkout** – Review your order and complete payment seamlessly.  
 -  **Order History** – View previously ordered items in your personal *“My Orders”* section.  
 
-### 🧑‍💼 Admin Features
+###  Admin Features
 -  **Order Management** – View, update, and manage orders placed by users.  
 -  **Product Management** – Add, update, or delete food items easily.  
 -  **User Management** – Access and manage user accounts efficiently.  
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 2️⃣ Tech Stack
 
 | Layer | Technology Used |
 |--------|----------------|
@@ -50,7 +49,7 @@ It allows users to browse through various food categories, add items to their ca
 
 ---
 
-## 📁 Project Structure
+## 3️⃣ Project Structure
 
 
     FoodFusion/
@@ -84,7 +83,7 @@ It allows users to browse through various food categories, add items to their ca
         └── README.md                 # Root README file for the project
 
 
-# Installation
+## 4️⃣ Installation
 
 # Prerequisites
 
@@ -120,7 +119,7 @@ It allows users to browse through various food categories, add items to their ca
    In the server folder
    npm run dev
 
-# Usage
+## 5️⃣ Usage
 
     Sign Up/Login: Create an account or log in with existing credentials.
     Browse and Search: View available food items by category or use the search feature.
@@ -128,7 +127,7 @@ It allows users to browse through various food categories, add items to their ca
     Checkout: Review your cart and place an order.
     View Order History: Check previously ordered items in the "My Orders" section.
 
-# Future Enhancements
+## 6️⃣ Future Enhancements
 
     Real-Time Order Tracking: Allow users to track their orders in real-time.
     Scheduled Deliveries: Users can schedule orders for later times.
@@ -136,7 +135,7 @@ It allows users to browse through various food categories, add items to their ca
     Loyalty Rewards Program: Introduce a rewards system for frequent users.
 
 
-# Contributing
+## 7️⃣ Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
@@ -145,6 +144,16 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     Commit your changes (git commit -m 'Add some AmazingFeature').
     Push to the branch (git push origin feature/AmazingFeature).
     Open a Pull Request.
+
+---
+
+##  Author
+
+**Sonam Ravindra Kadam**
+
+---
+
+### 💖 Developed with Passion and Purpose 🌾
 
 
 
